@@ -1,0 +1,7 @@
+D:\Cours Mr Mamitiana\pratique\TP0\TP0\bin\Debug\TP0.exe.config
+D:\Cours Mr Mamitiana\pratique\TP0\TP0\bin\Debug\TP0.exe
+D:\Cours Mr Mamitiana\pratique\TP0\TP0\bin\Debug\TP0.pdb
+D:\Cours Mr Mamitiana\pratique\TP0\TP0\obj\Debug\TP0.csproj.SuggestedBindingRedirects.cache
+D:\Cours Mr Mamitiana\pratique\TP0\TP0\obj\Debug\TP0.csproj.CoreCompileInputs.cache
+D:\Cours Mr Mamitiana\pratique\TP0\TP0\obj\Debug\TP0.exe
+D:\Cours Mr Mamitiana\pratique\TP0\TP0\obj\Debug\TP0.pdb
